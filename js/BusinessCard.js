@@ -79,7 +79,7 @@ export class HelloWorldSceneAR extends Component {
                   />
                   <ViroText 
                     textClipMode="None"
-                    text="Vladimir Novick" 
+                    text="Ilya Osovets" 
                     scale={[.015, .015, .015]}
                     style={styles.textStyle}
                   />
@@ -93,7 +93,7 @@ export class HelloWorldSceneAR extends Component {
                     height={0.01}
                     textAlign="left"
                     textClipMode="None"
-                    text="@VladimirNovick" 
+                    text="@IlyaO" 
                     scale={[.01, .01, .01]}
                     style={styles.textStyle}
                   />
@@ -112,7 +112,7 @@ export class HelloWorldSceneAR extends Component {
                 run: this.state.runAnimation 
               }}
             >
-              <ViroText text="www.viromedia.com"
+              <ViroText text="www.ilyao.com"
                 rotation={[-90, 0, 0]}
                 scale={[.01, .01, .01]}
                 style={styles.textStyle}

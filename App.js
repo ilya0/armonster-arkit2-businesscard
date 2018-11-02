@@ -12,7 +12,7 @@ import React, { Component } from 'react';
 import {
   ViroARSceneNavigator
 } from 'react-viro';
-
+ 
 import BusinessCard from './js/BusinessCard';
 
 export default class ViroSample extends Component {
